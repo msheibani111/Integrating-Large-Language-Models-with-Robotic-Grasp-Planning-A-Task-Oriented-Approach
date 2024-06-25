@@ -1,0 +1,51 @@
+prompt,object,task,grasping area
+Hand me the remote,remote,Bring the remote to the user,Middle section of the remote
+Fetch the bottle,bottle,Transport the bottle to the user,Middle section of the bottle
+Pick up the cup,cup,Lift the cup and hold it steady,Handle or body of the cup
+Move the bowl,bowl,Reposition the bowl to a specified location,Edge of the bowl
+Grab the vase,vase,Lift the vase and hold it steady,Middle section of the vase
+Bring me the scissors,scissors,Transport the scissors to the user,Handle of the scissors
+Get the toothbrush,toothbrush,Transport the toothbrush to the user,Handle of the toothbrush
+Hand me the wine glass,wine glass,Bring the wine glass to the user,Stem of the wine glass
+Move the baseball bat,baseball bat,Reposition the baseball bat to a new location,Handle of the bat
+Pick up the remote,remote,Lift the remote and hold it steady,Middle section of the remote
+Grab the bottle,bottle,Lift the bottle and hold it steady,Middle section of the bottle
+Bring me the cup,cup,Transport the cup to the user,Handle or body of the cup
+Move the vase,vase,Reposition the vase to a new location,Middle section of the vase
+Fetch the scissors,scissors,Transport the scissors to the user,Handle of the scissors
+Get the toothbrush,toothbrush,Lift the toothbrush and hold it steady,Handle of the toothbrush
+Hand me the bowl,bowl,Bring the bowl to the user,Edge of the bowl
+Move the wine glass,wine glass,Reposition the wine glass to a new location,Stem of the wine glass
+Pick up the baseball bat,baseball bat,Lift the baseball bat and hold it steady,Handle of the bat
+Bring me the remote,remote,Transport the remote to the user,Middle section of the remote
+Grab the bottle,bottle,Transport the bottle to the user,Middle section of the bottle
+Hand me the cup,cup,Bring the cup to the user,Handle or body of the cup
+Fetch the vase,vase,Transport the vase to the user,Middle section of the vase
+Pick up the scissors,scissors,Lift the scissors and hold it steady,Handle of the scissors
+Move the toothbrush,toothbrush,Reposition the toothbrush to a new location,Handle of the toothbrush
+Get the wine glass,wine glass,Transport the wine glass to the user,Stem of the wine glass
+Hand me the baseball bat,baseball bat,Bring the baseball bat to the user,Handle of the bat
+Bring me the bowl,bowl,Transport the bowl to the user,Edge of the bowl
+Grab the remote,remote,Lift the remote and hold it steady,Middle section of the remote
+Move the bottle,bottle,Reposition the bottle to a new location,Middle section of the bottle
+Fetch the cup,cup,Transport the cup to the user,Handle or body of the cup
+Pick up the vase,vase,Lift the vase and hold it steady,Middle section of the vase
+Get the scissors,scissors,Lift the scissors and hold it steady,Handle of the scissors
+Hand me the toothbrush,toothbrush,Bring the toothbrush to the user,Handle of the toothbrush
+Move the wine glass,wine glass,Reposition the wine glass to a new location,Stem of the wine glass
+Fetch the baseball bat,baseball bat,Transport the baseball bat to the user,Handle of the bat
+Pick up the bowl,bowl,Lift the bowl and hold it steady,Edge of the bowl
+Bring me the remote,remote,Transport the remote to the user,Middle section of the remote
+Get the bottle,bottle,Lift the bottle and hold it steady,Middle section of the bottle
+Hand me the cup,cup,Bring the cup to the user,Handle or body of the cup
+Move the vase,vase,Reposition the vase to a new location,Middle section of the vase
+Fetch the scissors,scissors,Transport the scissors to the user,Handle of the scissors
+Grab the toothbrush,toothbrush,Lift the toothbrush and hold it steady,Handle of the toothbrush
+Pick up the wine glass,wine glass,Lift the wine glass and hold it steady,Stem of the wine glass
+Bring me the baseball bat,baseball bat,Transport the baseball bat to the user,Handle of the bat
+Hand me the bowl,bowl,Bring the bowl to the user,Edge of the bowl
+Move the remote,remote,Reposition the remote to a new location,Middle section of the remote
+Fetch the bottle,bottle,Transport the bottle to the user,Middle section of the bottle
+Get the cup,cup,Lift the cup and hold it steady,Handle or body of the cup
+Pick up the vase,vase,Lift the vase and hold it steady,Middle section of the vase
+Grab the scissors,scissors,Lift the scissors and hold it steady,Handle of the scissors
