@@ -26,7 +26,7 @@ The `prompts_and_instructions.csv` file contains examples that are going to be u
 The Image dataset was generated using OpenAI's DALL-e model in the `image_dataset_generation.ipynb` notebook and was further refined using a simpler version of the Grasp Point Generation algorithm so that each image has the desired marking for fine-tuning the Captioning model.
 
 ## Grasp Point Generation
-The grasp point generation process involves using the YOLOv8 model to detect objects in images and outline them with bounding boxes. The SAM (Segment Anything Model) further refines these outlines through precise segmentation. Within these segmented areas, potential grasp points are identified along a horizontal line, and their practicality is assessed using image captioning models. 
+The grasp point generation process in the `grasp_point_generation.ipynb` notebook, involves using the YOLOv8 model to detect objects in images and outline them with bounding boxes. The SAM (Segment Anything Model) further refines these outlines through precise segmentation. Within these segmented areas, potential grasp points are identified along a horizontal line, and their practicality is assessed using image captioning models. 
 
 ## Fine-Tuning Details
 We utilized the Microsoft GIT model for image captioning, fine-tuned on our custom image dataset. Although initial results were not as expected due to data limitations, the process revealed that with a more robust dataset and additional tuning, the desired outcomes are achievable. Details and code for fine-tuning are provided in the `Finetuning-Image-Captioning.ipynb` notebook.
