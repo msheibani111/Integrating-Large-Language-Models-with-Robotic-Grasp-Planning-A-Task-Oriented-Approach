@@ -1,0 +1,36 @@
+filename,task,grasping location
+bottle1.jpeg,pour water from the bottle,bottle's neck
+bottle4.jpeg,clean the inside of the bottle,bottle's neck
+bottle5.jpeg,I want orange juice,bottle's body
+bottle6.jpeg,shake the bottle,bottle's body
+bottle6.jpeg,bring me the bottle,bottle's body
+bottle7.jpeg,flip the bottle,bottle's neck
+bottle10.jpeg,remove the garbage,bottle's body
+bowl1.jpeg,I want soupe,bowl's edge
+bowl2.jpeg,move the bowl,bowl's edge
+bowl3.jpeg,put the dishes in the dishwasher,bowl's body
+bowl4.jpeg,flip the bowl,bowl's edge
+bowl5.jpeg,hand me the bowl,bowl's edge
+bowl8.jpeg,wash the dishes,bowl's body
+bowl9.jpeg,beat the eggs in the bowl,bowl's body
+cup1.jpg,im thirsty,cup's handle
+cup2.jpg,pick up the cup,cup's body
+cup3.jpeg,I want hot tea,cup's handle
+cup4.jpeg,hand me the the cup,cup's handle
+cup5.jpeg,"Measure Liquid Ingredients
+",cup's edge
+cup6.jpeg,fetch the cup,cup's handle
+cup7.jpg,stack the cups,cup's edge
+cup8.jpeg,pick up the cup,cup's handle
+remote1.jpeg,change the channle,remote's body
+remote2.jpeg,flip the remote,remote's base
+remote3.jpeg,fetch the remote,remote's body
+remote4.jpeg,throw the remote,remote's body
+scissors1.jpeg,cut the paper,scissors's handle
+scissors3.jpeg,trim my hair,scissors's handle
+scissors5.jpeg,carry the scissors safely,scissors's blade
+scissors6.jpeg,fetch the tools,scissors's handle
+scissors7.jpeg,sew me a dress,scissors's handle
+vase2.jpeg,fill the vase,vase's base
+vase4.jpeg,break the vase on someone's head,vase's body
+vase6.jpeg,staiblize the vase,vase's base

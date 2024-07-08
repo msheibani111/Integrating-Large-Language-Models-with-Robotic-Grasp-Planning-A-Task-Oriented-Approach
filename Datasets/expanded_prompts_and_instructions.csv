@@ -1,0 +1,117 @@
+prompt,object,task,grasping area
+Hand me the remote,remote,Bring the remote to the user,Remote’s body
+Fetch the bottle,bottle,Transport the bottle to the user,Bottle’s body
+Pick up the cup,cup,Lift the cup and hold it steady,Cup’s handle or cup’s body
+Move the bowl,bowl,Reposition the bowl to a specified location,Bowl’s edge
+Grab the vase,vase,Lift the vase and hold it steady,Vase’s body
+Bring me the scissors,scissors,Transport the scissors to the user,Scissors’s handle
+Get the toothbrush,toothbrush,Transport the toothbrush to the user,Toothbrush’s handle
+Hand me the wine glass,wine glass,Bring the wine glass to the user,Wine glass’s stem
+I bought some flowers,vase,Lift the vase and hold it steady,Vase’s body
+I want to watch TV,remote,Lift the remote and hold it steady,Remote’s body
+I want to have a cup of tea,cup,Lift the cup and hold it steady,Cup’s handle or cup’s body
+I want to go to the gym,Bottle,Lift the bottle and hold it steady,Bottle’s body
+My vase is dirty,vase,Lift the vase,Vase’s edge
+Fetch the scissors,scissors,Transport the scissors to the user,Scissors’s handle
+I want to brush my teeth,toothbrush,Lift the toothbrush and hold it steady,Toothbrush’s handle
+I want to eat cereal,bowl,Lift the bowl and hold it steady,Base of the bowl
+Fill the cup with tea,cup,wash after use,Cup's handle
+Wash the bowl,bowl,fill with fruit,Bowl's base
+Prepare the salad bowl,bowl,serve salad in,Bowl's edge
+Clean the cup,cup,wash after use,Cup's edge
+Wash the bowl,bowl,clean after dinner,Bowl's base
+Set the table with the wine glass,wine glass,wash after party,Glass' base
+Store the remote,remote,store after use,Remote's side
+Hang the scissors,scissors,hang on the hook,Scissors' handle
+Pass the remote,remote,place on the coffee table,Remote's side
+Refill the fruit bowl,bowl,clean after dinner,Bowl's base
+Store the remote,remote,place on the coffee table,Remote's side
+Store the scissors,scissors,put away in the drawer,Scissors' handle
+Put away the cup,cup,serve tea in,Cup's handle
+Set the table with the wine glass,wine glass,polish for use,Glass' base
+Refill the fruit bowl,bowl,clean after dinner,Bowl's base
+Change the toothbrush,toothbrush,replace with a new one,Toothbrush's head
+Polish the wine glass,wine glass,set on the dining table,Glass' base
+Fill the vase with water,vase,relocate to the shelf,Vase's base
+Place the remote,remote,place on the coffee table,Remote's side
+Pass the remote,remote,store after use,Remote's side
+Dry the vase,vase,fill with water,Vase's base
+Clean the cup,cup,store in the cupboard,Cup's edge
+Change the toothbrush,toothbrush,prepare for travel,Toothbrush's head
+Move the vase,vase,clean and dry,Vase's neck
+Place the remote,remote,store after use,Remote's body
+Change the toothbrush,toothbrush,replace with a new one,Toothbrush's head
+Put away the cup,cup,wash after use,Cup's edge
+Prepare the salad bowl,bowl,clean after dinner,Bowl's base
+Use the scissors for crafts,scissors,put away in the drawer,Scissors' handle
+Clean the cup,cup,serve tea in,Cup's edge
+Clean the cup,cup,serve tea in,Cup's edge
+Set the table with the wine glass,wine glass,set on the dining table,Glass' base
+Wash the bowl,bowl,clean after dinner,Bowl's edge
+Recycle the bottle,bottle,recycle after finishing,Bottle's base
+Set the table with the wine glass,wine glass,polish for use,Glass' base
+Move the vase,vase,fill with water,Vase's neck
+Move the vase,vase,clean and dry,Vase's base
+Prepare the salad bowl,bowl,fill with fruit,Bowl's edge
+Wash the bowl,bowl,clean after dinner,Bowl's base
+Dry the vase,vase,fill with water,Vase's base
+Chill the bottle,bottle,recycle after finishing,Bottle's base
+Hang the scissors,scissors,use for cutting paper,Scissors' tip
+Store the scissors,scissors,hang on the hook,Scissors' handle
+Clean the cup,cup,store in the cupboard,Cup's handle
+Pack the toothbrush,toothbrush,replace with a new one,Toothbrush's head
+Move the vase,vase,fill with water,Vase's neck
+Store the scissors,scissors,hang on the hook,Scissors' tip
+Polish the wine glass,wine glass,set on the dining table,Glass' base
+Pack the toothbrush,toothbrush,store in the holder,Toothbrush's head
+Fill the cup with tea,cup,serve tea in,Cup's handle
+Store the remote,remote,store after use,Remote's side
+Change the toothbrush,toothbrush,store in the holder,Toothbrush's handle
+Clean the wine glass,wine glass,set on the dining table,Glass' base
+Put away the cup,cup,store in the cupboard,Cup's handle
+Fill the cup with tea,cup,wash after use,Cup's handle
+Store the remote,remote,place on the coffee table,Remote's side
+Dry the vase,vase,relocate to the shelf,Vase's neck
+Pass the remote,remote,store after use,Remote's body
+Fill the cup with tea,cup,serve tea in,Cup's edge
+Clean the wine glass,wine glass,set on the dining table,Glass' base
+Serve the bottle,bottle,put in the fridge,Bottle's base
+Fill the vase with water,vase,relocate to the shelf,Vase's neck
+Pass the remote,remote,place on the coffee table,Remote's body
+Dry the vase,vase,relocate to the shelf,Vase's neck
+Change the toothbrush,toothbrush,replace with a new one,Toothbrush's head
+Serve the bottle,bottle,put in the fridge,Bottle's neck
+Set the table with the wine glass,wine glass,polish for use,Glass' stem
+Use the scissors for crafts,scissors,use for cutting paper,Scissors' handle
+Refill the fruit bowl,bowl,serve salad in,Bowl's edge
+Place the remote,remote,place on the coffee table,Remote's side
+Place the toothbrush in its holder,toothbrush,prepare for travel,Toothbrush's head
+Dry the vase,vase,fill with water,Vase's base
+Fill the cup with tea,cup,store in the cupboard,Cup's edge
+Fill the vase with water,vase,relocate to the shelf,Vase's base
+Clean the wine glass,wine glass,polish for use,Glass' stem
+Fill the cup with tea,cup,store in the cupboard,Cup's handle
+Fill the cup with tea,cup,store in the cupboard,Cup's edge
+Clean the wine glass,wine glass,set on the dining table,Glass' stem
+Refill the fruit bowl,bowl,clean after dinner,Bowl's edge
+Refill the fruit bowl,bowl,serve salad in,Bowl's edge
+Move the vase,vase,fill with water,Vase's neck
+Wash the bowl,bowl,fill with fruit,Bowl's base
+Prepare the salad bowl,bowl,clean after dinner,Bowl's edge
+Recycle the bottle,bottle,recycle after finishing,Bottle's neck
+Clean the wine glass,wine glass,set on the dining table,Glass' base
+Recycle the bottle,bottle,put in the fridge,Bottle's neck
+Put away the cup,cup,store in the cupboard,Cup's edge
+Hang the scissors,scissors,hang on the hook,Scissors' tip
+Put away the cup,cup,store in the cupboard,Cup's edge
+Refill the fruit bowl,bowl,serve salad in,Bowl's base
+Dry the vase,vase,relocate to the shelf,Vase's neck
+Clean the cup,cup,store in the cupboard,Cup's handle
+Fill the vase with water,vase,fill with water,Vase's neck
+Dry the vase,vase,fill with water,Vase's base
+Polish the wine glass,wine glass,wash after party,Glass' stem
+Chill the bottle,bottle,put in the fridge,Bottle's base
+Dry the vase,vase,clean and dry,Vase's base
+Fill the vase with water,vase,fill with water,Vase's base
+Pack the toothbrush,toothbrush,replace with a new one,Toothbrush's handle
+Place the toothbrush in its holder,toothbrush,replace with a new one,Toothbrush's handle
