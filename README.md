@@ -40,7 +40,7 @@ The code in the `few_shot_instruction_generation.py` script demonstrate the proc
 The script utilizes OpenAI API for GPT3.5-Turbo to generate instructions using a few-shot instruct-tuning method based on the inputs.
 
 ## Inference
-To Generate Task-Oriented Grasp Points the `final_inference.ipynb` notebook utilizes all of the perviously mentioned modules to create the desired workflow. 
+To Generate Task-Oriented Grasp Points the `Task_Orinted__Grasp_Point.ipynb` notebook utilizes all of the perviously mentioned modules to create the desired workflow. 
 - The Caption Generation module uses the captioning model base version(before fine-tuning) to generate a caption for the input image, and passes the caption alongside the user input to the Instruction Generation module.
 - The Instruction Generation module uses the perviously mentioned Instruction Generation model to create suitble instructions.
 - The input image is passed to the Grasp Point Generation module, and the module generates several different grasp points.
